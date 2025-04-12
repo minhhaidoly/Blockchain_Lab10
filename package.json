@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@types/node": "^22.14.0",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.23.0",
+    "hardhat-deploy": "^1.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/react": "^19.1.1",
+    "@types/react-dom": "^19.1.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "wagmi": "^2.14.16"
+  }
+}
